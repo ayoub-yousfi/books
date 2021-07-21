@@ -47,3 +47,5 @@ app.listen(PORT, () => {
 //C:\Users\HP\Desktop\ayoub ing\nodejs\crud_app\server.js
 //C:\Users\HP\Desktop\ayoub ing\nodejs\project\index.js
 //C:\Users\HP\Desktop\ayoub ing\nodejs\project\bin\www
+
+//hello ayoub
